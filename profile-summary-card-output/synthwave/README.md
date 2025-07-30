@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/l-Il/l-Il/master/profile-summary-card-output/synthwave/4-productive-time.svg)
+```
+
+    
